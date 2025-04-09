@@ -28,5 +28,6 @@ public class alternateSumSeries {
         int n = sc.nextInt();
         int result = altSum(n);
         System.out.println("The alternate sum series is : " + result);
+        
     }
 }

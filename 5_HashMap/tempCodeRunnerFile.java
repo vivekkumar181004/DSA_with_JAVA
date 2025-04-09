@@ -1,1 +1,1 @@
-  hashmap.put(4,"Prem");
+sc.close();
