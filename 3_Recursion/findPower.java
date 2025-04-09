@@ -31,6 +31,8 @@ public class findPower {
         int b = sc.nextInt();
         int output = findofPower(a, b);
         System.out.println("the result of " + a + " ^ " + b + " is : " + output);
+
+        sc.close();
     }
 }
 

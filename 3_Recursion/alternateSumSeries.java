@@ -29,5 +29,6 @@ public class alternateSumSeries {
         int result = altSum(n);
         System.out.println("The alternate sum series is : " + result);
         
+        sc.close();
     }
 }

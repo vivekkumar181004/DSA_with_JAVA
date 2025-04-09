@@ -20,5 +20,7 @@ public class printMultiples {
         System.out.print("Enter the no. of multiples : ");
         int k = sc.nextInt();
         printMul(n, k);
+
+        sc.close();
     }
 }

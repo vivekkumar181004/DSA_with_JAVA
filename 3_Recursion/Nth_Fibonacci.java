@@ -18,6 +18,8 @@ public class Nth_Fibonacci {
         int n = sc.nextInt();
         int result = Fibo(n);
         System.out.println("The final output is : " + result);
+
+        sc.close();
     }
 
 }

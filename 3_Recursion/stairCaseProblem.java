@@ -18,6 +18,8 @@ public class stairCaseProblem {
         // relationships between the count of stairs problem and fibonacci series problem-----
         int output = countWays(n+1);
         System.out.println("Number of ways is : "+ output);
+
+        sc.close();
     }
 }
 

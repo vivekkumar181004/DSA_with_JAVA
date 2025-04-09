@@ -18,6 +18,8 @@ public class sumOf_Digits {
         int n = sc.nextInt();
         int result = sumOfDigits(n);
         System.out.println("The sum of given digits is : " + result);
+
+        sc.close();
     }
 
 }

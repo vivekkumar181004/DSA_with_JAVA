@@ -39,5 +39,7 @@ public class binarySearchrecursion {
 
         // Arrays.sort(n); // Just in case user input is unsorted
         biSearch(n, low, high, key);
+
+        sc.close();
     }
 }
